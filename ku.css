@@ -1,0 +1,60 @@
+.navb{
+    background-color: rgb(104, 104, 206);
+    border-radius: 17px;
+}
+nav li{
+     list-style: none;
+     float: left;
+     margin: 4px 7px;
+     padding: 4px 8px;
+}
+nav ul{
+  overflow: auto;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+  color: rgb(177, 173, 173);
+}
+#nav{
+  margin-bottom: 32px;
+}
+#pk{
+    text-align: center;
+    color: rgb(117, 117, 250);
+}
+#hk{
+    text-align: center;
+    color: rgb(117, 117, 250);
+}
+#mk{
+    border: 1px solid;
+    margin-left: 60px ;
+    margin-right: 60px;
+    padding: 8px;
+}
+#sp{
+    background-color: rgb(117, 117, 250);
+    border-radius: 5px;
+    margin: 8px 8px;
+    font-size: 20px;
+}
+.an{
+    background-color: rgb(117, 117, 250);
+    margin: 32px 8px;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 2px;
+}
+.an:hover{
+    color: black;
+    background-color: rgb(75, 75, 245);
+}
+footer{
+    text-align: center;
+    color: rgb(26, 26, 230);
+    font-size: 22px;
+    height: 40px;
+}
